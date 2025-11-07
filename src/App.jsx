@@ -201,7 +201,7 @@ export default function AmityPortal() {
 
             {/* CGPA Card */}
             <div className="bg-gradient-to-br from-orange-400 to-orange-500 rounded-xl p-6 shadow-md hover:shadow-lg transition-all">
-              <h3 className="text-white text-lg font-semibold mb-4">CGPA - 7.88</h3>
+              <h3 className="text-white text-lg font-semibold mb-4">CGPA - 8.08</h3>
               <div className="relative h-32 mt-2">
                 <svg className="w-full h-full" viewBox="0 0 200 120" preserveAspectRatio="none">
                   <defs>
